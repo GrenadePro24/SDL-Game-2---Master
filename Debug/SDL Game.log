@@ -1,0 +1,12 @@
+﻿  ModulePlayer.cpp
+D:\Uni\C++\SDL Game 2 - Master\ModulePlayer.cpp(79,21): warning C4244: '+=': conversion from 'float' to 'TYPE', possible loss of data
+D:\Uni\C++\SDL Game 2 - Master\ModulePlayer.cpp(79,21): warning C4244:         with
+D:\Uni\C++\SDL Game 2 - Master\ModulePlayer.cpp(79,21): warning C4244:         [
+D:\Uni\C++\SDL Game 2 - Master\ModulePlayer.cpp(79,21): warning C4244:             TYPE=int
+D:\Uni\C++\SDL Game 2 - Master\ModulePlayer.cpp(79,21): warning C4244:         ]
+D:\Uni\C++\SDL Game 2 - Master\ModulePlayer.cpp(85,31): warning C4244: '-=': conversion from 'float' to 'TYPE', possible loss of data
+D:\Uni\C++\SDL Game 2 - Master\ModulePlayer.cpp(85,31): warning C4244:         with
+D:\Uni\C++\SDL Game 2 - Master\ModulePlayer.cpp(85,31): warning C4244:         [
+D:\Uni\C++\SDL Game 2 - Master\ModulePlayer.cpp(85,31): warning C4244:             TYPE=int
+D:\Uni\C++\SDL Game 2 - Master\ModulePlayer.cpp(85,31): warning C4244:         ]
+  SDL Game.vcxproj -> D:\Uni\C++\SDL Game 2 - Master\Debug\SDL Game - Master 1 Handout.exe
